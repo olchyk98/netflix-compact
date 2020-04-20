@@ -35,7 +35,7 @@ It's recommended to use the **Chrome** browser.
 ![enter image description here](http://i.piccy.info/i9/ae067e3a22ac1376ea22921ae93ef1e1/1587400956/1901/1373973/Screenshot_from_2020_04_20_18_39_20.png)
 
 ## How to use
-Open any film in the browser and click the `eyes` button in the media menu.
+Open any film in the browser and click the `eye` button in the media menu.
 
 ![enter image description here](http://i.piccy.info/i9/0abdc7eca5066b8736ff9ed93ed3ed6e/1587401224/32738/1373973/Screenshot_from_2020_04_20_18_43_56.png)
 
