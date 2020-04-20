@@ -4,9 +4,13 @@
 
 ## Table of Contents
 [What is it?](#user-content-what-is-it)
+
 [How to install?](#user-content-how-to-install)
+
 [How to use?](#user-content-how-to-use)
+
 [How does it work?](#user-content-author)
+
 [Author](#user-content-author)
 
 ## What is it
