@@ -41,7 +41,7 @@ Open any film in the browser and click the `eye` button in the media menu.
 
 ## How does it work?
 
-Actually, it's a simple HTML button that fires an internal `"requestMinimizedView"` implementation. All this script does is that adds a button and a `onclick` handler to this function. You can think of it as a shortcut.
+Actually, it's a simple HTML button that fires an internal `"requestMinimizedView"` implementation. This script adds a custom media button. You can think of it as a shortcut.
 
 ## Author
 Oles Odynets @2020 [Github](https://github.com/olchyk98)
