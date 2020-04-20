@@ -13,8 +13,8 @@
 This is a custom script that creates additional functionality in the **Netflix** player. It allows you to resize the player and make it appear on top of all programs so you can do your work and watch cool movies at the same time!
 
 ## How to install
-It's recommended to use **Chrome** browser.
-1. Download a custom chrome extension (I prefer [this one](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en))
+It's recommended to use the **Chrome** browser.
+1. Download any chrome extension that allows you to apply custom CSS/JS (I prefer [this one](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld?hl=en))
 
 ![enter image description here](http://i.piccy.info/i9/740a0c50d729420ca58ce6344bc2e6b3/1587400974/28345/1373973/Screenshot_from_2020_04_20_18_38_01.png)
 
