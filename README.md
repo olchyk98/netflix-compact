@@ -39,7 +39,7 @@ Open any film in the browser and click the `eye` button in the media menu.
 
 ![enter image description here](http://i.piccy.info/i9/0abdc7eca5066b8736ff9ed93ed3ed6e/1587401224/32738/1373973/Screenshot_from_2020_04_20_18_43_56.png)
 
-## How does it dork?
+## How does it work?
 
 Actually, it's a simple HTML button that fires an internal `"requestMinimizedView"` implementation. All this script does is that adds a button and a `onclick` handler to this function. You can think of it as a shortcut.
 
