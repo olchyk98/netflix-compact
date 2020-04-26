@@ -26,9 +26,7 @@ window.onload = function()
 	    if(!controls) return; // the controls div hasn't been rendered yet.
 		observer.disconnect(); // stop listening for dom updates
 		
-		// assign an onclick action for the new button
-		objects["resbutton"]
-		
+		// assign an onclick action for the button
 		controls.insertBefore(objects["resbutton"], controls.lastChild); // add an extra button to the controls menu
 		objects["resbutton"].addEventListener("click", function(e) {
 			const player = document.getElementsByTagName("video")[0];
